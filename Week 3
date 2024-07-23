@@ -17,3 +17,23 @@ Tuesady 23/07/2024
 3. add the configure related content in index.html file
 4. add the needed dependencies.
 5. add something proepr condition for controller and make properly design for web.
+6. Trying connecting with the android application 
+7. phase that error 
+
+Bug FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:mapReleaseSourceSetPaths'.
+> Error while evaluating property 'extraGeneratedResDir' of task ':app:mapReleaseSourceSetPaths'.
+   > Failed to calculate the value of task ':app:mapReleaseSourceSetPaths' property 'extraGeneratedResDir'.
+      > Querying the mapped value of provider(java.util.Set) before task ':app:processReleaseGoogleServices' has completed is not supported
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 1s
+Running Gradle task 'assembleRelease'...                         1,969ms
+Gradle task assembleRelease failed with exit code 1
