@@ -1,0 +1,7 @@
+19/08/2024 - Monday 
+ 
+ Week 7 Development cycle 2
+
+ 1. fix the CRUD operation for Lessons.
+ 2. Add category Field in courses collection.
+ 3. As per the category and courses fetches detail perform a CRUD  operation.
