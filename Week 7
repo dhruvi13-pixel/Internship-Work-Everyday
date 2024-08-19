@@ -5,3 +5,5 @@
  1. fix the CRUD operation for Lessons.
  2. Add category Field in courses collection.
  3. As per the category and courses fetches detail perform a CRUD  operation.
+4. Remove the bugs and cache in file.
+5. remove the unnecessary files. 
