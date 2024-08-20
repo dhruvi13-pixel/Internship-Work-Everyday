@@ -16,3 +16,7 @@
 3. dashboard put the logic for signin and signup.
 4. home screen working for roles. studnet and tutor.
 5. merge the studnet and tutor workign with othe rintern together.
+6. Adding new field in courses collection courseInstructor and fix in model, dervice, addcourse, and edit course as well.
+7. clear the cache and bug
+8. merge code with main and solve the conflict.
+
