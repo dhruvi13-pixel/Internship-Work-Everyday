@@ -7,3 +7,12 @@
  3. As per the category and courses fetches detail perform a CRUD  operation.
 4. Remove the bugs and cache in file.
 5. remove the unnecessary files. 
+
+
+20/8/2024 - Tuesday
+
+1. Change the logic and add commnets in signup and signin page.
+2. remove courserating field.
+3. dashboard put the logic for signin and signup.
+4. home screen working for roles. studnet and tutor.
+5. merge the studnet and tutor workign with othe rintern together.
